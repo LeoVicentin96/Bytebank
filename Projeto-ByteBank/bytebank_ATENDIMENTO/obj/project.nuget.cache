@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "SnUAntXA4vpwqdwt3wpjQDc2L77MP2icPKMf4bZIxwaIyCOKMGmBRBa713Ri6BpPiyzwhgWXIrDXSjKf4Hedmg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Leonardo Vicentin\\Projeto-ByteBank\\bytebank_ATENDIMENTO\\bytebank_ATENDIMENTO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Leonardo Vicentin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\Leonardo Vicentin\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\Leonardo Vicentin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\Leonardo Vicentin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.11\\microsoft.netcore.app.host.win-x64.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
